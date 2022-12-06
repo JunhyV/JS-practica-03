@@ -1,4 +1,4 @@
-var vegetables = ["Tomato", "Carrot", "Broccoli"];
+let vegetables = ["Tomato", "Carrot", "Broccoli"];
 vegetables.pop()
 console.log(vegetables);
 
